@@ -22,7 +22,7 @@ Neste projeto pude práticar e aprimorar meus conhecimentos em:
 
 ## Apis:
 
-#### TheMealDB API
+#### Open Trivia Database
 
 A [Trivia API](https://opentdb.com/api_config.php) Database fornece uma API JSON totalmente gratuita para uso em projetos de programação. É preciso gerar um token de autenticação para ter acesso a perguntas triviais.
 
