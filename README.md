@@ -34,4 +34,4 @@ A [Trivia API](https://opentdb.com/api_config.php) Database fornece uma API JSON
 
 ## Layout:
 
-![](./src/asserts/layout.jpg)
+![](./src/asserts/layout.png)
