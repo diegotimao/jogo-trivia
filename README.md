@@ -1,4 +1,4 @@
-# 🚧 README em construção 🚧
+## Jogo de Trivia 🚧
 
 <!-- Olá, Tryber!
 
